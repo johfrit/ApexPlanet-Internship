@@ -90,6 +90,6 @@ I sincerely thank **Apexplanet Internship** for offering this opportunity to lea
 ---
 
 ## 🙋‍♂️ About Me:
-**[MOHAMMAD AMIR SHOAIB]**  
-BCA Student | Aspiring Web Developer  
+**Johfrit J**  
+B.Tech IT | Aspiring Web Developer  
 Skills: HTML, CSS, JavaScript, Git, GitHub, Responsive Design  
