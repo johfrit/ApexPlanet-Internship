@@ -31,5 +31,5 @@ It features multiple sections, including:
 Place product images in the format : cloth1.png, cloth2.png,electronic2.png, food1.png etc
 
 ## 🙋‍♂️ Author:
-**[MD AMIR SHOAIB]**  
-BCA Student | Passionate Web Developer  
+**[Johfrit]**  
+BTech IT | Passionate Web Developer  
